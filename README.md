@@ -1,6 +1,6 @@
 The [Best Newsletter WordPress Plugin](https://wordpress.org/plugins/best-newsletter/) allows you to create stunning emails and send them quickly and easily from your WordPress Dashboard. It comes with smart email creator and allows you to import your email contacts for sending emails.
 
-###It comes with handful of amazing features:
+# It comes with handful of amazing features:
 
 1. **Newsletter Creation -**
 You can create stunning email newsletter from within your WordPress dashboard. You can also paste the HTML code for getting your email template ready. While creating newsletter you can set the title of the email quickly and easily.
@@ -30,7 +30,7 @@ Any user that unsubscribes will also be tracked and stored in a separate suspend
 6. **Add Subscription Forms -**
 The Plugin comes with in-built widget that allows you to add subscription widget to your website. You can capture names and email address of your subscribers using the subscription forms.
 
-== Installation ==
+# Installation
 
 This section describes how to install the plugin and get it working.
 
