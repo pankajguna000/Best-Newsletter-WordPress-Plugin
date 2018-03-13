@@ -11,14 +11,15 @@ You can import the contacts with their first name and last name and you can pers
 
 3. **Connect any Sending Service (SMTP Service) -**
 Send Email using WP Mail or connect any SMTP email sending service. Connects well with,
-A. Amazon SES
-B. MailGun
-C. SendGrid
-D. MailJet
-E. SparkPost
-F. SendInBlue
-G. WP Mail
-H. Mandrill
+* A. Amazon SES
+* B. MailGet
+* C. SendGrid
+* D. MailJet
+* E. SparkPost
+* F. SendInBlue
+* G. WP Mail
+* H. Mandrill
+* I. MailGun
 and any other SMTP Service providers.
 
 4. **Track Email Sending Stats -**
