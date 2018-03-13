@@ -1,6 +1,5 @@
 # Best Newsletter WordPress Plugin
 
-# Description
 The Best Newsletter WordPress Plugin allows you to create stunning emails and send them quickly and easily from your WordPress Dashboard. It comes with smart email creator and allows you to import your email contacts for sending emails.
 
 # IT COMES WITH HANDFUL OF AMAZING FEATURES:
