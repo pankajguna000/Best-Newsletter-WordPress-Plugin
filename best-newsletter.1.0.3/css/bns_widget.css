@@ -1,0 +1,20 @@
+.widget_bestnewsplugin .best_input{
+    border-radius: 2px;
+    width: 100%;
+    float: none;
+    margin-top: 5px;
+    padding: 4px;
+	}
+	
+.widget_bestnewsplugin .best_news_save{
+   color: #fff;
+    border-radius: 4px;
+    background-color: #257325;
+    border: 1px solid #073c07;
+	}
+.widget_bestnewsplugin .best_news_save:hover{
+   color: #fff;
+    border-radius: 4px;
+    background-color: #175217;
+    border: 1px solid #073c07;
+	}
