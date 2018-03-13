@@ -1,4 +1,4 @@
-# best-newsletter-wordpress-plugin
+# Best Newsletter WordPress Plugin
 
 # Description
 The Best Newsletter WordPress Plugin allows you to create stunning emails and send them quickly and easily from your WordPress Dashboard. It comes with smart email creator and allows you to import your email contacts for sending emails.
@@ -12,17 +12,17 @@ The Best Newsletter plugin also allows you to import contacts easily. You can ei
 You can import the contacts with their first name and last name and you can personalize the emails dynamically during sending by including the names of your subscribers in the emails.
 
 # Connect any Sending Service (SMTP Service) –
-Send Email using WP Mail or connect any SMTP email sending service. Connects well with,
-A. Amazon SES
-B. MailGet
-C. SendGrid
-D. MailJet
-E. SparkPost
-F. SendInBlue
-G. WP Mail
-H. Mandrill
-I. MailGun
-and any other SMTP Service providers.
+###Send Email using WP Mail or connect any SMTP email sending service. Connects well with,
+* A. Amazon SES
+* B. MailGet
+* C. SendGrid
+* D. MailJet
+* E. SparkPost
+* F. SendInBlue
+* G. WP Mail
+* H. Mandrill
+* I. MailGun
+* and any other SMTP Service providers.
 
 # Track Email Sending Stats –
 Once the emails are sent, you can than track the open and clicks stats. You can check how many people opened your campaign and how many people clicked any specific link on your email. You can check everything from within the dashboard of the plugin.
