@@ -1,1 +1,0 @@
-# best-newsletter-wordpress-plugin
