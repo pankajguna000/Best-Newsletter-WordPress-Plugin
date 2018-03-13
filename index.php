@@ -112,7 +112,7 @@ function bns_mail_from_name($orig)
         }
     }
     
-    // If in doubt, return the original value
+    // If in doubt, return the original val
     return $orig;
 }
 
